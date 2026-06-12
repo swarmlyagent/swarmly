@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+node_modules/
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+*.tsbuildinfo
+next-env.d.ts
+
+# debug
+npm-debug.log*
+
+# env
+.env*
+!.env.example
+
+# brainstorming companion (prototype mockups, not app source)
+/.superpowers/
+.vercel

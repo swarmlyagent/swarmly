@@ -212,6 +212,19 @@ These are coming, not here yet. Everything else described in this README works t
 
 ---
 
+## For developers
+
+This repository is the **Swarmly marketing site** — the Next.js frontend behind [swarmlyagent.com](https://swarmlyagent.com). It's here to read and to run.
+
+```bash
+npm install
+npm run dev      # http://localhost:3000
+```
+
+Built with **Next.js (App Router)**, **React**, and **Tailwind CSS**. The deploy experience in the UI is powered by the Swarmly backend, which runs the agents; this repository is the front-end layer.
+
+---
+
 ## Get started
 
 You're about a minute away from a live agent.
